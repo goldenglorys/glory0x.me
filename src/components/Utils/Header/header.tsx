@@ -1,5 +1,5 @@
 import React, { Component, useState } from 'react';
-import logo from '../../../assets/svgs/logo.svg';
+import logo from '../../../assets/imgs/apple-touch-icon.png';
 import { Link } from 'react-router-dom';
 import './header.scss';
 
@@ -48,8 +48,8 @@ export default function Header() {
 
             <div className="social_box">
               <h3>Connect With Me</h3>
-              <a href="mailto:olusolagloryolamide@gmail.comm" className="mt-4">
-                olusolagloryolamide@gmail.com
+              <a href="mailto:glory.olusola@outlook.com" className="mt-4">
+              glory.olusola@outlook.com
               </a>
               <div className="social_icons">
                 <a href="https://github.com/goldenglorys">

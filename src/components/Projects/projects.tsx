@@ -28,7 +28,7 @@ const projects: Project[] = [
     title: 'glory0x.me',
     description: 'My Portfolio Website',
     github: 'https://github.com/goldenglorys/glory0x.me',
-    live: 'https://me.me',
+    live: 'https://glory0x-me.vercel.app/',
     stack: 'React + TypeScript + SASS',
     isPrivate: false,
     isLive: true,
