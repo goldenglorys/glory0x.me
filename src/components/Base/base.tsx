@@ -75,6 +75,11 @@ export default function Base({ menu }: any) {
           <a href="https://linkedin.com/in/glory-olusola" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-linkedin"></i> LinkedIn <img src={arrow} alt="pointer" />
           </a>
+
+          <a href="https://goldenglorys.github.io/me/" target="_blank" rel="noopener noreferrer">
+            <i className="fa fa-file"></i> Résumé
+            <img src={arrow} alt="pointer" />
+          </a>
         </div>
       </div>
     </div>

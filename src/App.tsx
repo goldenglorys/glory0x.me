@@ -68,6 +68,9 @@ function App() {
               <a href="https://www.linkedin.com/in/glory-olusola/" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin"></i>
               </a>
+              <a href="https://goldenglorys.github.io/me/" target="_blank" rel="noopener noreferrer">
+                <i className="fa fa-file"></i>
+              </a>
             </div>
           </div>
 
