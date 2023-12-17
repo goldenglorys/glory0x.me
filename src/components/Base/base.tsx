@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import myPic from '../../assets/imgs/my-pic.jpg';
+import myPic from '../../assets/imgs/my-pic1.jpg';
 import arrow from '../../assets/svgs/arrow.svg';
 import navLine from '../../assets/svgs/menu-line.svg';
 import './base.scss';
