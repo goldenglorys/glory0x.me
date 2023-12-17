@@ -54,8 +54,12 @@ const workExperiences: WorkExperience[] = [
     startDate: 'MAY 2021',
     endDate: 'JUN 2023',
     achievements: [
-      'Designed custom business processes applications to address complex business operations, scale in any angle, solve pain points challenges and optimize their workflows efficiently.',
-      'Created, managed, and maintained Robotics Process Automation processes operated by machines helping businesses solve complex problems and scale very fast towards achieving fast delivery outcomes.',
+      'Designed and implemented custom business processes applications, achieving a 70% improvement in operational efficiency.',
+      'Managed, and maintained Robotics Process Automation processes, contributing to a 150% increase in company MRR to $1million for a single quarter.',
+      'Collaborate cross-functionally to deliver multiple key projects, demonstrating effective teamwork and contributing to significant business outcomes.',
+      'Contributed in the implementation of an API service for executing Dockerized automation in Kubernetes (k8), enhancing system scalability and performance.',
+      'Designed and implemented several selenium-based automation scripts, incorporating robust proxy-rotation, headless browser mechanisms, and efficient captcha solutions, resulting in 5x improvement in data scraping, screenshot retrieval efficiency and super fast and accurate deliverables',
+      'Played a key role in the transition of the company’s core processes and automation orchestration services from a typescript-serverless architecture to a Python-based Django service, achieving 4x improvement in performance and a reduction in error rates.'
     ],
   },
   {
@@ -64,10 +68,10 @@ const workExperiences: WorkExperience[] = [
     startDate: 'JUN 2021',
     endDate: 'JUN 2023',
     achievements: [
-      'Played a pivotal role in enhancing the user experience by closely collaborating with the development team to refine and upgrade the interface & user experience of volunteer application.',
-      'Build state of art tracking and monitoring features for both volunteers and organizers to measure their impacts.',
-      'Conducted rigorous testing, including unit, feature, integration, and browser tests, to identify and rectify issues, resulting in a more robust and user-friendly version of the application.',
-      'Contributed to scalability enhancements, enabling the software to adapt to the high demands of new features and increased user loads.',
+      'Spearheaded initiatives to enhance user experience by closely collaborating with the development team. Led the refinement and upgrade of the interface, resulting in a more intuitive and visually appealing volunteer application.',
+      'Innovatively designed and implemented cutting-edge tracking and monitoring features for volunteers and organizers, providing a comprehensive tool to measure and analyze their respective impacts on the platform.',
+      'Implemented a comprehensive testing strategy, encompassing unit, feature, integration, and browser tests. Identified and resolved issues systematically, leading to the development of a robust, reliable, and user-friendly application version.',
+      'Played a key role in enhancing the scalability of the software, facilitating its seamless adaptation to the demands of new features and increased user loads. This contribution ensured the application’s performance remained optimal under varying conditions.',
     ],
   },
   {
