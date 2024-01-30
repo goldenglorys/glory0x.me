@@ -22,7 +22,7 @@ export default function Resume(props: ResumeProp) {
           <h2>{resume.name}</h2>
           <div className="buttons">
             <a
-              href="https://drive.google.com/file/d/1xcASs8-VhjfD3RcPb76-iNniwXR3eQXk/view?usp=sharing"
+              href="https://drive.google.com/file/d/1nFowE4nr1JF_N_eDe-64XbA-LfdGI1Ac/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
